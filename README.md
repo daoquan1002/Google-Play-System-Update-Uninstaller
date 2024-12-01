@@ -1,7 +1,5 @@
 # WARNING!!!
-SOME DEVICES WHEN FLASHING THIS MOUDLE CANNOT USABLE WHEN BOOTING UP. PLEASE PAY ATTENTION BEFORE INSTALLING.
-
-I found the cause, maybe Android 15 will not be able to use this module.
+Google has taken strong measures to improve Android security. Therefore, from Android 14 and above, this module should not be used to avoid causing unwanted system errors.
 
 # Google Play System Update Uninstaller
 
