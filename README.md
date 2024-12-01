@@ -1,5 +1,5 @@
 # WARNING!!!
-Google has taken strong measures to improve Android security. Therefore, from Android 14 and above, this module should not be used to avoid causing unwanted system errors.
+Google has taken strong measures to improve Android security. Therefore, from Android 14 and above, don't use this module to avoid causing unwanted system errors.
 
 # Google Play System Update Uninstaller
 
