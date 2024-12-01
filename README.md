@@ -10,6 +10,7 @@ This module is used to uninstall Google Play system updates when the device enco
 - Other cases may be due to incompatible roms which also lead to hardware errors such as camera, mic,...
 
 # Requirements
+- Android 13 and below (Important)
 - Only for root using Magisk or KernelSU
 
 # How to install
